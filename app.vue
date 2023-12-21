@@ -12,7 +12,7 @@ useHead({
 })
 
 useSeoMeta({
-  ogSiteName: 'Nuxt UI Pro - Landing template',
+  ogSiteName: 'IRepair - Home',
   twitterCard: 'summary_large_image'
 })
 </script>

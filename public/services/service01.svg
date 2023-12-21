@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="154.27 105.412 15 24" width="2" height="2" xmlns="http://www.w3.org/2000/svg">
+  <path class="st11" d="M 168.27 129.412 L 155.27 129.412 C 154.67 129.412 154.27 129.012 154.27 128.412 L 154.27 106.412 C 154.27 105.812 154.67 105.412 155.27 105.412 L 168.27 105.412 C 168.87 105.412 169.27 105.812 169.27 106.412 L 169.27 128.412 C 169.27 129.012 168.87 129.412 168.27 129.412 Z" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke: rgb(0, 0, 0); fill: none;"/>
+  <path style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke: rgb(0, 0, 0); fill: none;" d="M 154.27 109.912 L 169.27 109.912 L 169.27 124.912 L 154.27 124.912 L 154.27 109.912 Z"/>
+  <path class="st0" d="M 163.37 122.412 L 162.37 117.912 L 160.87 115.412 L 161.87 112.912 L 160.87 109.912 L 156.77 109.912 L 159.07 113.412 L 158.27 116.412 L 160.57 118.412 L 163.37 122.412 Z" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke: rgb(0, 0, 0); fill: none;"/>
+  <circle class="st11" cx="161.77" cy="127.212" r="1.5" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke: rgb(0, 0, 0); fill: none;"/>
+  <path class="st11" d="M 160.27 107.612 L 163.271 107.612" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke: rgb(0, 0, 0); fill: none; transform-origin: 161.771px 107.612px;" transform="matrix(0.999983331499, 0.000002640715, 0.00000397771, 0.99999090809, 0.002327528844, 0.000509146935)"/>
+</svg>

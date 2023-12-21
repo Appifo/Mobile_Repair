@@ -1,23 +1,19 @@
-title: Nuxt UI Pro - Landing template
+title: IRepair - Home
 description: Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
 hero:
-  title: Build your landing in seconds
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+  title: Expert Mobile Repair Services
+  description: We provides always our best services for our clients and  always try to achieve our client's trust and satisfaction.
   headline:
     label: Made with Nuxt UI Pro
     to: https://ui.nuxt.com/pro
     icon: i-heroicons-arrow-top-right-on-square-20-solid
   links:
-    - label: Get started
+    - label: Book Our Service
       icon: i-heroicons-arrow-right-20-solid
       trailing: true
-      to: '#features'
       size: xl
-    - label: Use this template
-      icon: i-simple-icons-github
-      size: xl
-      color: gray
-      to: https://github.com/nuxt-ui-pro/landing
+      color: blue
+      to: http://localhost:3000/
       target: _blank
 logos:
   title: Trusted by the world's best
@@ -30,32 +26,36 @@ logos:
 features:
   headline: Features
   title: Why choose our service?
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: We are commited to deliver the best smartphone repair service. We offer fast and cost effective repair for you all Smartphones.
   items:
-    - title: Easy to use
+    - title: Screen Repair
       description: Id laborum laboris duis nostrud excepteur ut velit nulla magna Lorem proident non.
+      img: service01.svg
       icon: i-heroicons-cog
-    - title: Reliable
-      description: Magna Lorem ex cillum fugiat ad enim aute irure sit duis minim.
-      icon: i-heroicons-check
-    - title: Secure
-      description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing non anim ullamco.
-      icon: i-heroicons-lock-closed
-    - title: Fast
+    - title: Motherboard Repair
       description: Qui reprehenderit nostrud dolore nisi ad fugiat labore eiusmod sint aliquip nisi voluptate.
+      img: service02.jpg
       icon: i-heroicons-rocket-launch
-    - title: Affordable
-      description: Reprehenderit fugiat elit in do ipsum ut pariatur.
-      icon: i-heroicons-currency-dollar
-    - title: Scalable
-      description: Lorem deserunt et eiusmod. Ea in consectetur minim officia ullamco enim deserunt est.
-      icon: i-heroicons-chart-bar
+    - title: Battery Replacement
+      description: Magna Lorem ex cillum fugiat ad enim aute irure sit duis minim.
+      img: service03.svg
+      icon: i-heroicons-check
+    - title: Water Damage
+      description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing non anim ullamco.
+      img: service04.png
+      icon: i-heroicons-lock-closed
+    # - title: Affordable
+    #   description: Reprehenderit fugiat elit in do ipsum ut pariatur.
+    #   icon: i-heroicons-currency-dollar
+    # - title: Scalable
+    #   description: Lorem deserunt et eiusmod. Ea in consectetur minim officia ullamco enim deserunt est.
+    #   icon: i-heroicons-chart-bar
 pricing:
   headline: Pricing
   title: A plan for every need
-  description: Pariatur laborum dolor ea commodo sit aute aliquip qui et cillum excepteur.
+  description: Our pricing is transparent. No surprises ever! Find out how much we charge for given services.
   plans:
-    - title: Basic
+    - title: Basic Services
       description: A basic plan for individuals.
       price: $9.99
       align: top
@@ -63,14 +63,9 @@ pricing:
         label: Get Started
         color: gray
       features:
-        - 1 GB Storage
-        - 1 Email Account
-        - 1 Domain
-        - 1 Website
-        - 1 Database
-        - 1 SSL Certificate
+        - 1 Mobile Repair
         - 1 Support Ticket
-    - title: Standard
+    - title: Standard Services
       description: A standard plan for small teams.
       price: $19.99
       highlight: true
@@ -79,14 +74,9 @@ pricing:
       button:
         label: Get Started
       features:
-        - 10 GB Storage
-        - 10 Email Accounts
-        - 10 Domains
-        - 10 Websites
-        - 10 Databases
-        - 10 SSL Certificates
+        - 10 Mobile Repair
         - 10 Support Tickets
-    - title: Premium
+    - title: Premium Services
       description: A premium plan for large teams.
       price: $29.99
       align: top
@@ -94,57 +84,52 @@ pricing:
         label: Get Started
         color: gray
       features:
-        - 100 GB Storage
-        - 100 Email Accounts
-        - 100 Domains
-        - 100 Websites
-        - 100 Databases
-        - 100 SSL Certificates
+        - 100 Mobile Repair
         - 100 Support Tickets
 testimonials:
   headline: Testimonials
   title: What our customers are saying.
   description: Proident sunt exercitation minim laborum enim laboris labore esse.
   items:
-    - quote: Nostrud tempor sunt fugiat. Dolor in sint dolore labore non occaecat adipisicing Lorem labore ullamco enim excepteur. In fugiat Lorem sit velit id veniam esse eiusmod non ea voluptate cupidatat reprehenderit ullamco dolore. Mollit laborum occaecat aliquip.
+    - quote: Very friendly staff and great service. They fixed my daughter's mobile with in 30mins. I really recommend this repair shop!!
       author:
         name: Rose Roberson
-        description: CEO at Company
+        description: Happy Customer
         avatar:
           src: https://i.pravatar.cc/120?img=1
           loading: lazy
-    - quote: Eiusmod dolor aute ut nulla pariatur officia consequat aute amet exercitation.
+    - quote: Humanized and fast service! Highly recommend here to experience!.
       author:
         name: Chace Rodgers
-        description: CEO at Company
+        description: Happy Customer
         avatar:
           src: https://i.pravatar.cc/120?img=7
           loading: lazy
-    - quote: Id duis velit enim officia ad nisi incididunt magna ex dolor minim deserunt dolor. Esse incididunt cillum nostrud esse do quis amet labore amet nulla eiusmod amet nulla Lorem. Incididunt ex voluptate irure officia laboris ea proident est qui.
+    - quote: Very good service. Always feel invited to this place. Been here so many times and never got disappointed. They are very reasonable. Specially Li she gives wonderful service, a smile on the face, make's everyone's day better. 
       author:
         name: Cornelius Sheppard
-        description: CEO at Company
+        description: Happy Customer
         avatar:
           src: https://i.pravatar.cc/120?img=3
           loading: lazy
     - quote: Velit consectetur in adipisicing culpa eiusmod commodo eu ex dolore. Officia irure nisi dolor dolore velit fugiat. Aliqua sint aliqua aute elit eu sunt.
       author:
         name: Destinee Woods
-        description: CEO at Company
+        description: Happy Customer
         avatar:
           src: https://i.pravatar.cc/120?img=5
           loading: lazy
     - quote: Proident quis deserunt qui ex exercitation veniam id Lorem est cupidatat ipsum irure aliquip ad.
       author:
         name: Kaleb Mccormick
-        description: CEO at Company
+        description: Happy Customer
         avatar:
           src: https://i.pravatar.cc/120?img=8
           loading: lazy
     - quote: Magna officia quis ea ea in officia non voluptate ipsum culpa do labore sunt. Aute est dolore commodo sint officia ad laboris dolor magna aliquip exercitation tempor commodo.
       author:
         name: Jazmin Mccall
-        description: CEO at Company
+        description: Happy Customer
         avatar:
           src: https://i.pravatar.cc/120?img=9
           loading: lazy
